@@ -1,0 +1,40 @@
+
+body{
+    justify-items: center;
+    align-content: center;
+    width:70%;
+    padding:0px;
+    margin: auto;
+}
+
+.main-container{
+    margin:50px;
+    width:750px;
+    height:fit-content;
+}
+
+.main-container h1{
+    text-align:center;
+}
+
+.main-container img{
+    width:800px;
+    height:600px;
+}
+
+.about{
+    width:750px;
+    height:fit-content;
+    box-shadow: 20px 20px 20px black;
+    background-color:rgb(207, 204, 204);
+    padding:25px;
+    font-size:18px;
+    margin-top:100px;
+}
+
+
+.about h1{
+    color:white;
+    text-align: center;
+    text-shadow:2px 2px 2px white;
+}
